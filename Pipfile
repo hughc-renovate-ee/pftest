@@ -11,5 +11,3 @@ uvicorn = "==0.29.0"
 
 [requires]
 python_version = "3.9.9"
-
-
